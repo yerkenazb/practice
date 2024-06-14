@@ -5,8 +5,6 @@ import java.util.Stack;
 
 public class Intro {
     public static void main(String[] args) {
-        ArrayList<Integer> list = new ArrayList<>();
-
         Stack<Integer> stack = new Stack<>();
         stack.push(5);
         stack.push(7);
